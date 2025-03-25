@@ -1,3 +1,5 @@
+**this repo set to be able detect if being cloned**
+
 # Dokumentasi Penjelasan
 
 ## 1. Mengganti warna background menjadi hijau muda
